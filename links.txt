@@ -1,13 +1,13 @@
 
 URL principal:
-https://imovago.github.io/assets
+https://ricardojosino.github.io/website-library
 
 URL dos links:
-https://imovago.github.io/assets/links.txt
+https://ricardojosino.github.io/website-library/links.txt
 
 
 Imóveis:
-https://imovago.github.io/assets/images/house/4.3/01.jpg
+https://ricardojosino.github.io/website-library/images/house/4.3/01.jpg
 https://imovago.github.io/assets/images/house/4.3/02.jpg
 https://imovago.github.io/assets/images/house/4.3/03.jpg
 https://imovago.github.io/assets/images/house/4.3/04.jpg
