@@ -23,10 +23,10 @@ https://ricardojosino.github.io/website-library/images/house/4.3/12.jpg
 Interiores:
 https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/01.jpg
 https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/02.jpg
-https://ricardojosino.github.io/website-library/interior-of-the-house/4.3/03.jpg
-https://ricardojosino.github.io/website-library/interior-of-the-house/4.3/04.jpg
-https://ricardojosino.github.io/website-library/interior-of-the-house/4.3/05.jpg
-https://ricardojosino.github.io/website-library/interior-of-the-house/4.3/06.jpg
+https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/03.jpg
+https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/04.jpg
+https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/05.jpg
+https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/06.jpg
 
 Logos
 https://ricardojosino.github.io/website-library/images/logos/svg/real-state/01.svg
